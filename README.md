@@ -1,7 +1,7 @@
 ![MasterHead](https://e476rzxxeua.exactdn.com/wp-content/uploads/2020/01/00086-desk-anim-v0.3.gif?strip=all&lossy=1&sharp=1&ssl=1.gif)
 <h1 align="center">Hi 👋, I'm Raparthi Vikas</h1>
 <h3 align="center">A passionate Artificial Intelligence and Robotics Application from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/fd/fd6b8a57a591ad36f849f9a21a7a177c_w200.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VIKASRAPARTHI&label=Profile%20views&color=0e75b6&style=flat" alt="VIKASRAPARTHI" /> </p>
 
@@ -32,7 +32,7 @@
   <img src="https://streak-stats.demolab.com?user=VIKASRAPARTHI&theme=radical&hide_border=false" alt="VIKASRAPARTHI Streak Stats" />
 </p>
 
-<h3>Snake_Eating_My_Contribution</h3>
+<h3>Snake Eating My Contribution</h3>
 <div align="left""animations=false&theme=radical&locale=en&hide_border=false">
   <hr></div>
 <img src="https://github.com/VIKASRAPARTHI/VIKASRAPARTHI/blob/output/snake.svg" alt="Snake animation" />
