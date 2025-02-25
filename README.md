@@ -8,24 +8,18 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;Crafting+UI+using+React.js+and+Next.js!;I'm+a+MERN+stack+developer!;Bringing+ideas+to+life+with+creativity+and+code!" />
 </p>
-
-
-<!-- <h3 align="center">A passionate Artificial Intelligence and Robotics Application from India</h3> -->
 <h2>⚡️ A Few Quick Facts <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"></h2>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-<!--     <li>🧑‍💼 Engineering @ Blitz.</li> -->
-<!--     <li>🧑‍💼 Ex-SDE Intern @ Go Careers.</li> -->
-<!--     <li>🧑‍💼 Ex-Full Stack Enginner Intern @ Epoch (California,USA).</li> -->
     <li>👀 I’m a DSA and Web Development enthusiast.</li>
     <li>❓ Ask me about anything related to MERN stack</li> 
     <li>💡 Always learning, always building!</li>
     <li>🐞 Debugging is my adventure – I love the chase! 😆</li>  
     <li>🔥 Every great dev starts with a “Hello, World!”</li>  
     <li>🌍 Open-source enthusiast, always happy to collaborate and contribute!</li>
+    <li>📄 <a href="YOUR_RESUME_LINK" target="_blank" rel="noreferrer"><strong>Resume</strong></a></li> 
+    <li>🌐 <a href="YOUR_PORTFOLIO_LINK" target="_blank" rel="noreferrer"><strong>Portfolio</strong></a></li>
 
-<!--     <li>📙 Check out my <a href="https://drive.google.com/file/d/1wEDlamry-sl0mYrE4tbxitZaHy-s7jSX/view?usp=drive_link" target="_blank" rel="noreferrer">resume</a>.</li>  -->
-<!--     <li>📙 Check out my <a href="https://portfolio-aashish.vercel.app/" target="_blank" rel="noreferrer">portfolio</a>.</li>  -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
