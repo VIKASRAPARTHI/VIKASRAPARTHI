@@ -22,6 +22,7 @@
     <li>💡 Always learning, always building!</li>
     <li>🐞 Debugging is my adventure – I love the chase! 😆</li>  
     <li>🔥 Every great dev starts with a “Hello, World!”</li>  
+    <li>🌍 Open-source enthusiast, always happy to collaborate and contribute!</li>
 
 <!--     <li>📙 Check out my <a href="https://drive.google.com/file/d/1wEDlamry-sl0mYrE4tbxitZaHy-s7jSX/view?usp=drive_link" target="_blank" rel="noreferrer">resume</a>.</li>  -->
 <!--     <li>📙 Check out my <a href="https://portfolio-aashish.vercel.app/" target="_blank" rel="noreferrer">portfolio</a>.</li>  -->
