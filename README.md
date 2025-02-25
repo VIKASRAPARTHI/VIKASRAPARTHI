@@ -16,7 +16,7 @@
     <li>💡 Always learning, always building!</li>
     <li>🐞 Debugging is my adventure – I love the chase! 😆</li>  
     <li>🔥 Every great dev starts with a “Hello, World!”</li>  
-    <li>🌍 Open-source enthusiast, always happy to collaborate and contribute!</li>
+    <li>🌍 Open-source enthusiast, always happy to contribute!</li>
     <li>📄 <a href="YOUR_RESUME_LINK" target="_blank" rel="noreferrer"><strong>Resume</strong></a></li> 
     <li>🌐 <a href="YOUR_PORTFOLIO_LINK" target="_blank" rel="noreferrer"><strong>Portfolio</strong></a></li>
 
