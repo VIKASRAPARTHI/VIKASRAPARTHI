@@ -1,6 +1,7 @@
 ![MasterHead](https://e476rzxxeua.exactdn.com/wp-content/uploads/2020/01/00086-desk-anim-v0.3.gif?strip=all&lossy=1&sharp=1&ssl=1.gif)
+ <h1 align="center">Hi 👋, I'm Raparthi Vikas</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=VIKASRAPARTHI&label=Profile%20views&color=0e75b6&style=flat" alt="VIKASRAPARTHI" /> <h1 align="center">Hi 👋, I'm Raparthi Vikas</h1> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VIKASRAPARTHI&label=Profile%20views&color=0e75b6&style=flat" alt="VIKASRAPARTHI" /> </p>
 
 
 
@@ -17,10 +18,10 @@
 <!--     <li>🧑‍💼 Ex-SDE Intern @ Go Careers.</li> -->
 <!--     <li>🧑‍💼 Ex-Full Stack Enginner Intern @ Epoch (California,USA).</li> -->
     <li>👀 I’m a DSA and Web Development enthusiast.</li>
-    <li>❓ Ask me about anything related to MERN stack and related technologies.</li> 
-    <li>💡 Always learning, always building! Currently mastering the MERN stack.</li>
-    <li>🐞 Bugs don’t scare me – I enjoy the thrill of hunting them down! 😆</li>
-    <li>🔥 Fun Fact: I believe every great developer starts with a “Hello, World!”</li>
+    <li>❓ Ask me about anything related to MERN stack</li> 
+    <li>💡 Always learning, always building!</li>
+    <li>🐞 Debugging is my adventure – I love the chase! 😆</li>  
+    <li>🔥 Every great dev starts with a “Hello, World!”</li>  
 
 <!--     <li>📙 Check out my <a href="https://drive.google.com/file/d/1wEDlamry-sl0mYrE4tbxitZaHy-s7jSX/view?usp=drive_link" target="_blank" rel="noreferrer">resume</a>.</li>  -->
 <!--     <li>📙 Check out my <a href="https://portfolio-aashish.vercel.app/" target="_blank" rel="noreferrer">portfolio</a>.</li>  -->
