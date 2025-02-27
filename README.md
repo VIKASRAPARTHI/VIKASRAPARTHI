@@ -46,9 +46,10 @@
 
 <div align="center">
   <a href="https://github.com/VIKASRAPARTHI">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VIKASRAPARTHI&theme=radical&hide_border=false" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.demolab.com/?user=VIKASRAPARTHI&theme=radical&hide_border=false" alt="GitHub Streak" />
   </a>
 </div>
+
 
 
 
