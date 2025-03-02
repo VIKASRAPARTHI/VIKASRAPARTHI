@@ -35,20 +35,25 @@
 
 # 📊 GitHub Stats: <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> 
 
-<div align = "center" style="display: flex; justify-content: center; gap: 2px; ">
-  <a href="https://github.com/VIKASRAPARTHI">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=VIKASRAPARTHI&show_icons=true&include_all_commits=true&count_private=true&theme=radical&locale=en&hide_border=false" height="180" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/VIKASRAPARTHI">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=VIKASRAPARTHI&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="180" alt="Top Languages" />
-  </a>
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; max-width: 100%;">
+    <!-- GitHub Stats -->
+    <a href="https://github.com/VIKASRAPARTHI">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=VIKASRAPARTHI&show_icons=true&include_all_commits=true&count_private=true&theme=radical&locale=en&hide_border=false" height="180" style="max-width: 100%;" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/VIKASRAPARTHI">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=VIKASRAPARTHI&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="180" style="max-width: 100%;" alt="Top Languages" />
+    </a>
+  </div>
+
+  <!-- GitHub Streak (Below for responsiveness) -->
+  <div>
+    <a href="https://github.com/VIKASRAPARTHI">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=VIKASRAPARTHI&theme=radical&hide_border=false" />
+    </a>
+  </div>
 </div>
 
-<div align="center">
-  <a href="https://github.com/VIKASRAPARTHI">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VIKASRAPARTHI&theme=radical&hide_border=false" />
-  </a>
-</div>
 
 
 
