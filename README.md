@@ -35,7 +35,7 @@
 
 # 📊 GitHub Stats: <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> 
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <a href="https://github.com/VIKASRAPARTHI">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=VIKASRAPARTHI&show_icons=true&include_all_commits=true&count_private=true&theme=radical&locale=en&hide_border=false" height="180" alt="GitHub Stats" />
   </a>
