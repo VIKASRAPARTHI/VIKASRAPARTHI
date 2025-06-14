@@ -2,7 +2,7 @@
  <h1 align="center">Hi 👋, I'm Raparthi Vikas</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VIKASRAPARTHI&label=Profile%20views&color=0e75b6&style=flat" alt="VIKASRAPARTHI" /> </p>
-
+<p align="left"> <a href="https://x.com/Bunny16_24" target="blank"><img src="https://img.shields.io/twitter/follow/Bunny16_24?logo=twitter&style=for-the-badge" alt="Vikas"  </p>
 
 
 <p align="center">
