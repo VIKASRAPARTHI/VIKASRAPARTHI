@@ -3,18 +3,23 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 0 * * *"  # every 24 hours
-  workflow_dispatch:     # allows manual trigger
+  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@master
+      - uses: actions/checkout@v3
+
+      - uses: Platane/snk@v3
         with:
           github_user_name: VIKASRAPARTHI
           outputs: |
             dist/snake.svg
             dist/snake.gif
+
+      - name: Check output
+        run: ls -R dist  # Debug step to confirm files are generated
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
