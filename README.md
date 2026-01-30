@@ -17,8 +17,8 @@
     <li>🐞 Debugging is my adventure – I love the chase! 😆</li>  
     <li>🔥 Every great dev starts with a “Hello, World!”</li>  
     <li>🌍 Open-source enthusiast, always happy to contribute!</li>
-    <li>📄 <a href="YOUR_RESUME_LINK" target="_blank" rel="noreferrer"><strong>Resume</strong></a></li> 
-    <li>🌐 <a href="YOUR_PORTFOLIO_LINK" target="_blank" rel="noreferrer"><strong>Portfolio</strong></a></li>
+    <li>📄 <a href="https://drive.google.com/file/d/1OwG_Dk7zivsq3jiPUAeMAMvIOxseU9eh/view?usp=sharing" target="_blank" rel="noreferrer"><strong>Resume</strong></a></li> 
+    <li>🌐 <a href="https://portfolio-six-sigma-pqpngle5wk.vercel.app/" target="_blank" rel="noreferrer"><strong>Portfolio</strong></a></li>
 
 
 <h3 align="left">Connect with me:</h3>
